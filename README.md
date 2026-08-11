@@ -56,12 +56,12 @@ sin tocar el resto:
 
 | Juego | Hash MD5 esperado | Offsets modificados | Valores (original → parche) |
 |---|---|---|---|
-| Diva X ASIA | `733033E2DDF86D94FCA30B2AA1249302` | `0x3A32C`, `0x3AA5A` | → `01`, → `f7` |
-| Diva X JP | `04A530196C722D1A475082C57D85CFD7` | `0x3A320`, `0x3AA4E` | → `01`, → `f7` |
-| Miracle Girls Festival | `9E50BD28879FC721AB724E97141F9D8A` | `0x4F464`, `0x4F5C0` | → `01`, → `f7` |
+| Diva X ASIA | `733033E2DDF86D94FCA30B2AA1249302` | `0x3A32C`, `0x3AA5A` |  `02→01`, `02→01`, `f6→f7`  |
+| Diva X JP | `04A530196C722D1A475082C57D85CFD7` | `0x3A320`, `0x3AA4E` |  `02→01`, `02→01`, `f6→f7` |
+| Miracle Girls Festival | `9E50BD28879FC721AB724E97141F9D8A` | `0x4F464`, `0x4F5C0` |  `02→01`, `02→01`, `f6→f7` |
 | Diva f US | `3727CEE0C28313B961634C15B3F7EA33` *(ver advertencia abajo)* | `0x4F767E`, `0x14764`, `0x149E8` | `02→01`, `02→01`, `f6→f7` |
-| Diva f JP | `94AA36566BACEA2DC53ACA96920B3EC3` | `0x4A5316`, `0x142A6`, `0x14538` | → `01`, → `01`, → `f7` |
-| Diva F 2nd JP | `F161E1D7BB0CA56BBBB56A7B8794F52D` | `0xBA3C`, `0xBB9A` | → `01`, → `f7` |
+| Diva f JP | `94AA36566BACEA2DC53ACA96920B3EC3` | `0x4A5316`, `0x142A6`, `0x14538` |  `02→01`, `02→01`, `f6→f7` |
+| Diva F 2nd JP | `F161E1D7BB0CA56BBBB56A7B8794F52D` | `0xBA3C`, `0xBB9A` |  `02→01`, `02→01`, `f6→f7`  |
 
 Los comentarios del propio script (líneas 25–33) documentan, para Diva f US,
 qué instrucción de ensamblador ARM Thumb corresponde a cada offset:
