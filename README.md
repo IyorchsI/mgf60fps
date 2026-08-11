@@ -1,5 +1,5 @@
 
-#VIBECODED
+# VIBECODED
 
 ## patch.sh — Parcheador de 60 FPS para eboot.bin (PSP/PS Vita)
 
