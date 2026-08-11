@@ -1,7 +1,7 @@
 
 # VIBECODED
 
-## patch.sh — Parcheador de 60 FPS para eboot.bin (PSP/PS Vita)
+## patch.sh — Parcheador de 60 FPS para eboot.bin (PS Vita)
 
 Script en Bash que aplica un parche binario de **60 FPS** a archivos `eboot.bin`
 de varios juegos de la saga *Hatsune Miku: Project DIVA* y *Miracle Girls
